@@ -8,9 +8,9 @@ def calculateAbsolute():
     twodif = 2 * dif
 
     if n > 21:
-        print(twodif)
+        print("Result:",twodif)
     else: 
-        print(clean)
+        print("Result:",clean)
 
 
     # end assignment
